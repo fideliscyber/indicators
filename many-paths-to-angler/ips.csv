@@ -1,5 +1,5 @@
-# Indicators from Many Paths to Angler Blog Post from 12/17/2015 on Threatgeek
-#ip address, description, date
+# Indicators from Many Paths to Angler Blog Post from 12/17/2015 on Threatgeek,,
+ip address, description, date
 85.143.217.191,Shadowed redirect used by Angler,12/23/2015
 136.243.228.193,Landing page IP used by Angler,12/17/2015
 136.243.228.194,Landing page IP used by Angler,12/17/2015
